@@ -26,11 +26,9 @@ public class MainActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                /*
                 phoneNumber = editText.getText().toString();
                 DatabaseReference databaseReference = FirebaseDatabase.getInstance().getReference(getString(R.string.firebase_path)+"/"+getString(R.string.userDetails));
-                databaseReference.child(phoneNumber).child("phone").setValue(phoneNumber);*/
-                startActivity(new Intent(MainActivity.this,PhoneActivity.class));
+                databaseReference.child(phoneNumber).child("phone").setValue(phoneNumber);
             }
         });
         track.setOnClickListener(new View.OnClickListener() {
