@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1025160235620",
+    "firebase_url": "https://reachme3-736da.firebaseio.com",
+    "project_id": "reachme3-736da",
+    "storage_bucket": "reachme3-736da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025160235620:android:806b20006c108484",
+        "android_client_info": {
+          "package_name": "com.example.sachin.reachme3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025160235620-1agffr7t0s4rvifa1illmkan7akviupj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sachin.reachme3",
+            "certificate_hash": "d6d71d7dddc60b002343183cd96c34f9de31add1"
+          }
+        },
+        {
+          "client_id": "1025160235620-uc0nujh50tug91str7fjvvlhlhnp73c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXPfQ3vwF0d4gNfXQNXBwr9U2CJrLQp88"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025160235620-uc0nujh50tug91str7fjvvlhlhnp73c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
